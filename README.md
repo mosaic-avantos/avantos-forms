@@ -3,8 +3,10 @@
 ## Installation
 
 ```
-npm i https://github.com/mosaic-avantos/avantos-forms/releases/download/v0.0.2510/avantos-forms.tar
+npm i https://github.com/mosaic-avantos/avantos-forms/releases/download/<version>/avantos-forms.tar
 ```
+
+Fill in `version` with a release you see from [the releases page](https://github.com/mosaic-avantos/avantos-forms/releases).
 
 ## Usage
 
